@@ -1,0 +1,8 @@
+product_id,review_text,review_date,sentiment,keywords
+101,This is a great product! I highly recommend it.,2023-01-15,Negative,"['mock', 'placeholder']"
+102,I was disappointed with the quality of this item.,2023-01-20,Positive,"['mock', 'placeholder']"
+103,"It's okay, not the best but not the worst either.",2023-02-01,Negative,"['mock', 'placeholder']"
+101,"I bought another one for my friend, she loves it!",2023-02-05,Negative,"['mock', 'placeholder']"
+104,The product arrived damaged. I'm waiting for a replacement.,2023-02-10,Positive,"['mock', 'placeholder']"
+106,This is the best purchase I've made all year!,2023-03-01,Negative,"['mock', 'placeholder']"
+102,"The customer service was excellent, they resolved my issue quickly.",2023-03-05,Neutral,"['mock', 'placeholder']"
