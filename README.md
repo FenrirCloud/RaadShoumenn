@@ -1,4 +1,4 @@
-# Data Engineering Portfolio Project: Product Review Analysis
+# Data Engineering Project: Product Review Analysis
 
 ## Overview
 
